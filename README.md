@@ -3,6 +3,13 @@
 **Computer Science student passionate about Python, Java, and neural networks.  
 Currently exploring AI and machine learning to build innovative solutions.**
 
+## 🚀 Skills:
+- Python
+- Java
+- Machine Learning
+- Deep Learning
+- Data Structures
+
 ## 🚀 Software Development Projects:
 
 ### 🧠 Neural Networks & Machine Learning
@@ -14,3 +21,7 @@ Currently exploring AI and machine learning to build innovative solutions.**
 ### ☕ Java Projects
 - **Coming Soon...**
 
+## 📞 Contact Me:
+- **LinkedIn**: [Rory Howe-Borges](https://www.linkedin.com/in/rory-howe-borges-33b470347)
+- **Email**: [rhoweborges@gmail.com](mailto:rhoweborges@gmail.com)
+- **LeetCode**: [rhowebor](https://leetcode.com/u/rhowebor/)
