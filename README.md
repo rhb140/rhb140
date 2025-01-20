@@ -12,11 +12,9 @@ Currently exploring AI and machine learning to build innovative solutions.**
 
 ## 🚀 Software Development Projects:
 
-### 🧠 Neural Networks & Machine Learning
+### 🧠 Neural Networks & Machine Learning (🐍 Python)
 - **[MNIST CNN Classifier](https://github.com/rhb140/MNIST-CNN)** – Built a convolutional neural network (CNN) to classify handwritten digits with 99% accuracy.
-
-### 🐍 Python Projects
-- **Neural Networks** – Exploring deep learning models for image classification and medical diagnostics.
+- **[Breast Cancer Classification](https://github.com/rhb140/Breast-Cancer-Classification-NN)** – Built a neural network model using TensorFlow and Keras to classify breast cancer tumors as benign or malignant with 96% accuracy.
 
 ### ☕ Java Projects
 - **Coming Soon...**
