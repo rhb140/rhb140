@@ -14,6 +14,7 @@ Currently exploring AI and machine learning to build innovative solutions.**
 
 ### 🧠 Neural Networks & Machine Learning (🐍 Python)
 - **[MNIST CNN Classifier](https://github.com/rhb140/MNIST-CNN)** – Built a convolutional neural network (CNN) to classify handwritten digits with 99% accuracy.
+- **[CIFAR-10 CNN Classifier (From Scratch)](https://github.com/rhb140/Cifar10-CNN-)** – Built a convolutional neural network (CNN) from scratch to classify images from the CIFAR-10 dataset into 10 categories, achieving 88% accuracy.
 - **[Breast Cancer Classification](https://github.com/rhb140/Breast-Cancer-Classification-NN)** – Built a neural network model using TensorFlow and Keras to classify breast cancer tumors as benign or malignant with 96% accuracy.
 - **[Stock Price Prediction Using LSTM](https://github.com/rhb140/Stock-Price-Prediction-LSTM)** – Used an LSTM model to predict Tesla (TSLA) stock prices, trained on historical data, and predicted future trends.
 
